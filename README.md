@@ -44,11 +44,11 @@ Step 5: Conclusion
   - Summarize findings and insights from the analysis.
 
 # Dependencies
-Make sure you have the following dependencies installed:
 
-Python 3.x
-Jupyter Notebook
-Pandas
-Matplotlib
-NumPy
-SciPy
+Make sure you have the following dependencies installed:
+  - Python 3.x
+  - Jupyter Notebook
+  - Pandas
+  - Matplotlib
+  - NumPy
+  - SciPy
