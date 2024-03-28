@@ -21,25 +21,23 @@ The dataset contains the following features:
 
 # Methodology
 Step 1: Data Preparation
-Replace column names and make them lowercase.
-Convert data to the required types.
-Handle missing values appropriately.
-Handle cases where sales are marked as "TBD" (to be determined).
+  - Replace column names and make them lowercase.
+  - Convert data to the required types.
+  - Handle missing values appropriately.
+  - Handle cases where sales are marked as "TBD" (to be determined).
 Step 2: Data Analysis
-Analyze the number of games released in different years.
-Examine sales variation across different platforms.
-Identify leading platforms and determine sales trends.
-Analyze the impact of user and professional reviews on sales.
-Explore the distribution of games by genre.
+  - Analyze the number of games released in different years.
+  - Examine sales variation across different platforms.
+  - Identify leading platforms and determine sales trends.
+  - Analyze the impact of user and professional reviews on sales.
+  - Explore the distribution of games by genre.
 Step 3: User Profile Creation
-Determine top platforms and genres for each region (NA, EU, JP).
-Investigate the effect of ESRB ratings on sales in individual regions.
+  - Determine top platforms and genres for each region (NA, EU, JP).
+  - Investigate the effect of ESRB ratings on sales in individual regions.
 Step 4: Hypothesis Testing
-Test hypotheses regarding average user ratings for Xbox One and PC platforms and for Action and Sports genres.
+  - Test hypotheses regarding average user ratings for Xbox One and PC platforms and for Action and Sports genres.
 Step 5: Conclusion
-Summarize findings and insights from the analysis.
-Getting Started
-To get started with the project, follow these steps:
+  - Summarize findings and insights from the analysis.
 
 # Dependencies
 Make sure you have the following dependencies installed:
