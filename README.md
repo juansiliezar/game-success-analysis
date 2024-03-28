@@ -7,17 +7,17 @@ Ice Online Store needs to analyze video game sales data to identify patterns det
 # Dataset
 The dataset contains the following features:
 
-Name: Name of the game
-Platform: Gaming platform (e.g., Xbox, PlayStation)
-Year_of_Release: Release year of the game
-Genre: Genre of the game
-NA_sales: North American sales in USD million
-EU_sales: European sales in USD million
-JP_sales: Japanese sales in USD million
-Other_sales: Sales in other countries in USD million
-Critic_Score: Critic score (maximum of 100)
-User_Score: User score (maximum of 10)
-Rating: ESRB rating
+- Name: Name of the game
+- Platform: Gaming platform (e.g., Xbox, PlayStation)
+- Year_of_Release: Release year of the game
+- Genre: Genre of the game
+- NA_sales: North American sales in USD million
+- EU_sales: European sales in USD million
+- JP_sales: Japanese sales in USD million
+- Other_sales: Sales in other countries in USD million
+- Critic_Score: Critic score (maximum of 100)
+- User_Score: User score (maximum of 10)
+- Rating: ESRB rating
 
 # Methodology
 Step 1: Data Preparation
